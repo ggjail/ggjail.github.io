@@ -1,0 +1,36 @@
+---
+---
+
+$header-bg-color: #41B6E6 !default;
+$header-bg-color-secondary: #59315F !default;
+
+$section-headings-color: #252162 !default;
+$body-text-color: #606c71 !default;
+$body-link-color: #24AAE0 !default;
+$blockquote-text-color: #819198 !default;
+
+
+@import "{{ site.theme }}";
+
+.link-title,
+.link-title:hover,
+.link-title:visited,
+.link-title:active {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.active {
+  color: rgba(246, 236, 96, .9);
+  background-color: rgba(246, 236, 96, 0.08);
+  border-color: rgba(246, 236, 96, 0.7);
+}
+
+.site-footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.site-footer-credits {
+  opacity: .6;
+}

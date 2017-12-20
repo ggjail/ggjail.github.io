@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+    <meta charset="UTF-8">
+
+    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+</head>
+<body>
+<section class="page-header">
+    {% if page.url != "/" %}<a class="link-title" href="/">{% endif %}
+    <h1 class="project-name">GGJ Adicode ISEN Lille</h1>
+    <h2 class="project-tagline">Événement de la Global Game Jam 2018, du 26 au 28 janvier à l’espace Adicode de Lille.</h2>
+    {% if page.url != "/" %}</a>{% endif %}
+
+    <a class="btn {% if page.url == '/intro.html' %}active{% endif %}" href="/intro">Présentation</a>
+    <!--<a class="btn {% if page.url == '/ggj.html' %}active{% endif %}" href="/ggj">Global Game Jam</a>-->
+    <!--<a class="btn {% if page.url == '/ail.html' %}active{% endif %}" href="/ail">Adicode ISEN Lille</a>-->
+    <a class="btn {% if page.url == '/register.html' %}active{% endif %}" href="/register">Inscription</a>
+    <a class="btn {% if page.url == '/sponsors.html' %}active{% endif %}" href="/sponsors">Partenaires</a>
+    <a class="btn {% if page.url == '/faq.html' %}active{% endif %}" href="/faq">FAQ</a>
+    <a class="btn {% if page.url == '/contact.html' %}active{% endif %}" href="/contact">Contact</a>
+</section>
+
+<section class="main-content">
+    {{ content }}
+
+    <footer class="site-footer">
+        <span class="site-footer-credits">&copy; 2018 GGJ Alicode ISEN Lille. </span>
+        <span class="site-footer-credits">Page hébergée avec <a href="https://pages.github.com">GitHub Pages</a>.</span>
+    </footer>
+</section>
+
+</body>
+</html>
