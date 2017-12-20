@@ -104,10 +104,6 @@ Les jeux devront ensuite être terminés pour le dimanche à 14h, et mis sur le 
 entre 14h et 16h. De 16h à 18h, un pot de fin sera organisé, et ce sera également l’occasion de tester
 les jeux des autres participant-es !
 
-## Dans quelle mesure sommes-nous libre d’interpréter le thème désigné par la Global Game Jam ?
-
-_Réponse à venir..._
-
 ## J’ai encore une question, je fais comment ?
 
 [Contactez-nous](/contact) si vous avez des questions !
