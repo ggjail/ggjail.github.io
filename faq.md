@@ -4,16 +4,16 @@ layout: default
 
 # Questions fréquement posées
 
-## Qu’est-ce que la Global Game Jam ?
+## Qu’est-ce que la Global Game Jam<sup>&reg;</sup> ?
 
 C’est un événement où on crée un prototype de jeu vidéo en 48h.
 
 [En savoir plus sur la GGJ...](/intro#quest-ce-que-la-global-game-jam)
 
-## Quelles spécificités à la Global Game Jam de l’Adicode ISEN Lille ?
+## Quelles spécificités à la Global Game Jam<sup>&reg;</sup> de l’ADICODE<sup>&reg;</sup> ISEN Lille ?
 
-Nous allons encourager les participant-e-s à faire des jeux avec des contrôleurs alternatifs,
-et nous allons encourager les rencontres entre participant-e-s de différents profils.
+Nous allons encourager les participants à faire des jeux avec des contrôleurs alternatifs,
+et nous allons encourager les rencontres entre participants de différents profils.
 
 [En savoir plus sur la GGJ AIL...](/intro#spécificités-de-la-ggj-adicode-isen-lille)
 
@@ -21,17 +21,17 @@ et nous allons encourager les rencontres entre participant-e-s de différents pr
 
 Bien entendu ! Il y a aura même des mentors sur place pour vous aider à apprendre de nouvelles choses.
 
-## Je peux venir faire un jeu tout-e seul-e ?
+## Je peux venir faire un jeu tout seul ?
 
-Notre objectif est de permettre aux participant-e-s de rencontrer de nouvelles personnes et de faire
-des jeux en équipe. Vous pouvez venir seul-e, mais il vous faudra rejoindre une équipe.
+Notre objectif est de permettre aux participants de rencontrer de nouvelles personnes et de faire
+des jeux en équipe. Vous pouvez venir seul, mais il vous faudra rejoindre une équipe.
 
 Si vous êtes timide, pas de panique, nous vous aiderons à faire de nouvelles rencontres !
 
 ## Je peux participer à la jam depuis chez moi ?
 
 Non. Il existe d’autres game jams qui se font depuis chez-soi, mais cela n’est pas autorisé
-dans le règlement de la Global Game Jam.
+dans le règlement de la Global Game Jam<sup>&reg;</sup>.
 
 ## Combien coûte l’inscription ?
 
@@ -50,12 +50,12 @@ Oui, il faudra juste nous prévenir en amont.
 ## Je suis étudiant à l’ISEN, je dois quand même m’inscrire ?
 
 Vous devez tout de même remplir le formulaire de pré-inscription.
-Un certain nombre de places sont réservées aux étudiants de l’ISEN, et les étudiant-e-s sélectionné-e-s
+Un certain nombre de places sont réservées aux étudiants de l’ISEN, et les étudiants sélectionnés
 n’auront pas à payer les frais d’inscription.
 
-## Je suis mineur-e, je peux venir ?
+## Je suis mineur, je peux venir ?
 
-Malheureusement, l’événement n’est pas ouvert aux mineur-e-s, même accompagné-e-s (c’est le réglement de la GGJ).
+Malheureusement, l’événement n’est pas ouvert aux mineurs, même accompagnés (c’est le réglement de la GGJ).
 
 ## Je ne suis pas disponible tout le week-end, je peux venir quand même ?
 
@@ -78,31 +78,31 @@ bénéficier d’une de ces places.
 
 
 ## J’ai rempli le formulaire de pré-inscription. Quand aurais-je la réponse ?
-Nous envoyons une première vague de réponses le 3 janvier pour dire si vous êtes sélectionné-e
+Nous envoyons une première vague de réponses le 3 janvier pour dire si vous êtes sélectionné
 ou sur liste d’attente. Nous envoyons ensuite une deuxième vague de réponses le 8 janvier
 pour prévenir les nouvelles personnes sélectionnées et prévenir les autres que nous leur 
 conseillons de s’inscrire ailleurs.
 
-## Je me suis inscrit-e sur le site de la Global Game Jam. Est-ce que je suis bien inscrit à la jam de l’Adicode ISEN Lille ?
+## Je me suis inscrit sur le site de la Global Game Jam<sup>&reg;</sup>. Est-ce que je suis bien inscrit à la jam de l’ADICODE<sup>&reg;</sup> ISEN Lille ?
 
-L’inscription sur le site de la Global Game Jam (le site en anglais) et celui-ci sont deux choses différentes.
-C’est le formulaire en français que vous devez remplir pour vous inscrire à la Global Game Jam de l’Adicode ISEN Lille.
-Si vous êtes sélectionné-e, il vous faudra alors aussi vous inscrire sur le site de la Global Game Jam, 
+L’inscription sur le site de la Global Game Jam<sup>&reg;</sup> (le site en anglais) et celui-ci sont deux choses différentes.
+C’est le formulaire en français que vous devez remplir pour vous inscrire à la Global Game Jam de l’ADICODE<sup>&reg;</sup> ISEN Lille.
+Si vous êtes sélectionné, il vous faudra alors aussi vous inscrire sur le site de la Global Game Jam, 
 mais cela se fera dans un deuxième temps (vous avez le temps). 
 
-## Comment est-ce qu’on accède à l’espace Adicode ?
+## Comment est-ce qu’on accède à l’espace ADICODE<sup>&reg;</sup> ?
 
-L’espace Adicode se situe en centre-ville de Lille, au 41 rue Vauban. 
+L’espace ADICODE<sup>&reg;</sup> se situe en centre-ville de Lille, au 41 rue Vauban. 
 
 L’accès peut se faire en métro, en vélo ou en voiture. 
 Si vous voulez venir en voiture, prévenez-nous en amont pour qu’on vous réserve une place sur le parking de l’ISEN.
 
-## Quelles sont les horaires de la GGJ de l’Adicode ISEN Lille ?
+## Quelles sont les horaires de la GGJ de l’ADICODE<sup>&reg;</sup> ISEN Lille ?
 
-L’accueil des participant-e-s commencera à 17h30 le vendredi 26 janvier, et le lancement se fera à 19h.
-Les jeux devront ensuite être terminés pour le dimanche à 14h, et mis sur le serveur de la Global Game Jam
+L’accueil des participants commencera à 17h30 le vendredi 26 janvier, et le lancement se fera à 19h.
+Les jeux devront ensuite être terminés pour le dimanche à 14h, et mis sur le serveur de la Global Game Jam<sup>&reg;</sup>
 entre 14h et 16h. De 16h à 18h, un pot de fin sera organisé, et ce sera également l’occasion de tester
-les jeux des autres participant-es !
+les jeux des autres participants !
 
 ## J’ai encore une question, je fais comment ?
 
