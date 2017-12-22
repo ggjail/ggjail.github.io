@@ -1,5 +1,6 @@
 ---
 layout: default
+image: ./assets/img/ggj18_fb_groupheader_820x462px.jpg
 ---
 
 # Qu’est-ce que la Global Game Jam<sup>&reg;</sup>&nbsp;?

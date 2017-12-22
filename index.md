@@ -1,5 +1,6 @@
 ---
 layout: default
+image: ./assets/img/ggj18_fb_groupheader_820x462px.jpg
 ---
 
 # Préinscriptions ouvertes !

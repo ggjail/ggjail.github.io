@@ -3,11 +3,16 @@
 <head>
     <meta charset="UTF-8">
 
+    <link rel="icon" href="/favicon.ico">
+
     {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+    <meta property="og:url" content="https://ggjail.org" />
+    <meta property="og:title" content="GGJ ADICODE® ISEN Lille 2018" />
 </head>
 <body>
 <section class="page-header">
@@ -17,8 +22,6 @@
     {% if page.url != "/" %}</a>{% endif %}
 
     <a class="btn {% if page.url == '/intro.html' %}active{% endif %}" href="/intro">Présentation</a>
-    <!--<a class="btn {% if page.url == '/ggj.html' %}active{% endif %}" href="/ggj">Global Game Jam</a>-->
-    <!--<a class="btn {% if page.url == '/ail.html' %}active{% endif %}" href="/ail">ADICODE<sup>&reg;</sup> ISEN Lille</a>-->
     <a class="btn {% if page.url == '/register.html' %}active{% endif %}" href="/register">Inscription</a>
     <a class="btn {% if page.url == '/sponsors.html' %}active{% endif %}" href="/sponsors">Partenaires</a>
     <a class="btn {% if page.url == '/faq.html' %}active{% endif %}" href="/faq">FAQ</a>
