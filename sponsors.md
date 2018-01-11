@@ -10,8 +10,8 @@ Nous aimerions remercier tous les partenaires GGJ ADICODE<sup>&reg;</sup> ISEN L
 - l’ISEN de Lille et l’espace ADICODE<sup>&reg;</sup>
 - L’éditeur de jeu vidéo Plug in Digital
 - L’entreprise ICO Partners
-- La COMmunauté des Universités et Etablissements de Lille
-- L’association Museomix
+- La communauté d’universités et d’établissements Lille Nord de France
+- L’association Museomix NORD
 - L’entreprise Holusion
 - L’entreprise Trézorium
 - Pictanovo

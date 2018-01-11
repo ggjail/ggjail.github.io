@@ -47,6 +47,13 @@ C’est seulement si vous confirmez votre inscription que les frais vous seront 
 
 ## Processus de sélection
 
+-----
+
+**Il reste encore des places, n’hésitez donc pas à vous inscrire (même au dernier moment) !**
+
+-----
+
+
 - Le **3 janvier**, nous allons procéder à un premier tri parmi les personnes
   ayant répondu au questionnaire.
   Notre objectif est de s’assurer une bonne répartition entre les 5 profils.
