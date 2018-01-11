@@ -49,29 +49,9 @@ C’est seulement si vous confirmez votre inscription que les frais vous seront 
 
 -----
 
-**Il reste encore des places, n’hésitez donc pas à vous inscrire (même au dernier moment) !**
+**Il reste encore des places, n’hésitez donc pas à vous pré-inscrire (même au dernier moment) !**
 
 -----
-
-
-- Le **3 janvier**, nous allons procéder à un premier tri parmi les personnes
-  ayant répondu au questionnaire.
-  Notre objectif est de s’assurer une bonne répartition entre les 5 profils.
-  Nous enverrons des messages à toutes les personnes ayant répondu au questionnaire, en leur disant si 
-  leur profil a été retenu, ou mis sur liste d’attente. 
-  Les personnes retenues auront jusqu’au **7&nbsp;janvier** pour confirmer leur envie de venir et payer les 
-  frais d’inscription.
-
-- Le **8 janvier**, en fonction des confirmations d’inscriptions que nous aurons reçues, nous enverrons
-  des nouveaux messages aux personnes sur liste d’attente, pour les informer si elles ont été retenues
-  ou si elles sont toujours sur liste d’attente. Les personnes retenues auront jusqu’au 10 janvier pour
-  confirmer leur envie de venir et payer les frais d’inscription.
-
-- Le **11 janvier**, les inscriptions seront closes. Nous inciterons toutes les personnes encore sur 
-  liste d’attente à s’inscrire sur d’autres lieux organisant la Global Game Jam<sup>&reg;</sup>. La seule possibilité
-  d’avoir encore une place pour celle d'ADICODE<sup>&reg;</sup> ISEN Lille sera en cas de désistement d’une personne
-  déjà inscrite.
-
 
 ## Frais d’inscription
 
