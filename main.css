@@ -3,6 +3,18 @@
     src: url(./Oswald-VariableFont_wght.ttf)
 }
 
+.h100 {
+    height: 100%;
+}
+
+.fill-remaining-body {
+    height: calc(100% - 52px)
+}
+
+.container.is-fluid {
+    padding: 0;
+}
+
 .navbar-item {
     font-family: Oswald;
     color: #111;
@@ -17,4 +29,17 @@
 
 .navbar-item.is-active {
     color: #e0457b !important;
+}
+
+
+.has-image-background {
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media (max-width: 1000px) {
+    .has-image-background {
+        background-size: 1000px 600px; /* Force the image to its minimum width */
+    }
 }
