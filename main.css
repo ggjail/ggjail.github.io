@@ -35,8 +35,8 @@
     background-position: top 52px center;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 600px) {
     .has-image-background {
-        background-size: 1000px 600px; /* Force the image to its minimum width */
+        background-size: 600px; /* Force the image to its minimum width */
     }
 }
