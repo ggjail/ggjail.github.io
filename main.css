@@ -14,3 +14,7 @@
 .navbar-item:hover {
     color: #e0457b !important;
 }
+
+.navbar-item.is-active {
+    color: #e0457b !important;
+}
