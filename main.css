@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Oswald;
+    src: url(./Oswald-VariableFont_wght.ttf)
+}
+
+.navbar-item {
+    font-family: Oswald;
+    color: #111;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.navbar-item:hover {
+    color: #e0457b !important;
+}
