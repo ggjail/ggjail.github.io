@@ -37,3 +37,18 @@
 .navbar-item:hover, .navbar-item.is-active {
     color: #e0457b !important;
 }
+
+/* Header */
+#page-header {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 1.8;
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+    letter-spacing: 0;
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    background-color: #e0457b;
+}
