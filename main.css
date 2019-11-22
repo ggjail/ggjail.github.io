@@ -10,6 +10,9 @@
 .fill-remaining-body {
     height: calc(100% - 52px)
 }
+#ggj-logo {
+    margin-left: 10px;
+}
 
 .container.is-fluid {
     padding: 0;
