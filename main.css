@@ -3,30 +3,11 @@
     src: url(./Oswald-VariableFont_wght.ttf)
 }
 
-#ggj-logo {
-    margin-left: 10px;
-}
-
 .container.is-fluid {
     padding: 0;
 }
 
-.navbar-item {
-    font-family: Oswald;
-    color: #111;
-    font-size: 13px;
-    font-weight: 600;
-    text-transform: uppercase;
-}
-
-.navbar-item:hover {
-    color: #e0457b !important;
-}
-
-.navbar-item.is-active {
-    color: #e0457b !important;
-}
-
+/* Background */
 
 .has-image-background {
     background-image: url(bg.png);
@@ -37,6 +18,24 @@
 
 @media (max-width: 600px) {
     .has-image-background {
-        background-size: 600px; /* Force the image to its minimum width */
+        background-size: 600px;
     }
+}
+
+/* Navbar */
+
+#ggj-logo {
+    margin-left: 10px;
+}
+
+.navbar-item {
+    font-family: Oswald;
+    color: #111;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.navbar-item:hover, .navbar-item.is-active {
+    color: #e0457b !important;
 }
