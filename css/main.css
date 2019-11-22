@@ -42,7 +42,7 @@ li {
     text-transform: uppercase;
 }
 
-.navbar-item:hover, .navbar-item.is-active {
+.navbar-item:hover, .navbar-item.is-active, .pink-link {
     color: #e0457b !important;
 }
 
@@ -99,4 +99,8 @@ li {
 
 .bordered-text p:not(:nth-last-of-type(1)) {
     margin-bottom: 10px;
+}
+
+.pink-link:hover {
+    color: hotpink !important;
 }
