@@ -1,0 +1,13 @@
+.question {
+    font-family: Oswald, sans-serif;
+    color: #3A3939;
+    font-size: 22px;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+
+.answer {
+    font-family: Oswald, sans-serif;
+    margin-bottom: 15px;
+    color: #767676;
+}
