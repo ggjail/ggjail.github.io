@@ -86,6 +86,10 @@ li {
     text-align: left;
 }
 
+.text-content p:not(:nth-last-of-type(1)) {
+    margin-bottom: 10px;
+}
+
 .content-card {
     width: 100%;
     background-color: #E0457B;
@@ -104,8 +108,12 @@ li {
     padding: 1rem;
 }
 
-.bordered-text p:not(:nth-last-of-type(1)) {
-    margin-bottom: 10px;
+.bordered-text .column {
+    padding: 0 !important;;
+}
+
+.bordered-text .columns {
+    padding: 1rem;
 }
 
 .pink-link:hover {
@@ -121,10 +129,10 @@ li {
     padding: 0.5rem;
 }
 
-.footer-link {
+.white-link {
     color: white;
 }
 
-.footer-link:hover {
+.white-link:hover {
     color: #e08ab0;
 }
