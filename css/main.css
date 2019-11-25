@@ -72,6 +72,8 @@ li {
 }
 
 .subsubtitle {
+    margin-bottom: 7px;
+    margin-top: 7px;
     font-size: 18px;
     font-style: italic;
 }
