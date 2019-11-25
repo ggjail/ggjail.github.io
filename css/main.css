@@ -109,3 +109,20 @@ li {
 .pink-link:hover {
     color: #e08ab0 !important;
 }
+
+/* Footer */
+
+#footer-card {
+    font-family: Oswald, sans-serif;
+    width: 100%;
+    background-color: #E0457B;
+    padding: 0.5rem;
+}
+
+.footer-link {
+    color: white;
+}
+
+.footer-link:hover {
+    color: #e08ab0;
+}
