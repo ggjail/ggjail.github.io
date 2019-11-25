@@ -1,6 +1,6 @@
 @font-face {
     font-family: Oswald;
-    src: url(./Oswald-VariableFont_wght.ttf)
+    src: url(../fonts/Oswald-VariableFont_wght.ttf)
 }
 
 .container.is-fluid {
@@ -17,7 +17,7 @@ li {
 
 /* Background */
 .has-image-background {
-    background-image: url(bg.png);
+    background-image: url(../images/bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
