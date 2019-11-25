@@ -19,7 +19,7 @@ li {
 .has-image-background {
     background-image: url(../images/bg.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     background-position: top center;
 }
 
