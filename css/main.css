@@ -137,7 +137,8 @@ li {
 }
 
 .white-link {
-    color: white;
+    color: pink;
+    text-decoration: underline;
 }
 
 .white-link:hover {
