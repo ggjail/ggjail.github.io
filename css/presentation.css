@@ -3,3 +3,16 @@
     align-items: center;
     justify-content: center;
 }
+
+#illustration-image img {
+    max-width: 507px;
+    max-height: 499px;
+    width: auto;
+    height: auto;
+}
+
+#presentation-side {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
