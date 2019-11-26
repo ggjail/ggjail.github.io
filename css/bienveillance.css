@@ -1,3 +1,7 @@
 .subsubtitle {
     text-align: left;
 }
+
+li {
+    list-style-type: "\1F497"
+}
