@@ -41,6 +41,10 @@ li {
     margin-left: 10px;
 }
 
+#ggj-logo-background {
+    background-color: #e084a6;
+}
+
 .navbar-item {
     font-family: Oswald, sans-serif;
     color: #111;
