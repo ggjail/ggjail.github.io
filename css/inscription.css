@@ -1,6 +1,25 @@
 #preregistration-link {
     margin-top: 7px;
-    font-size: 20px;
+    font-size: 24px;
+    line-height: 29px;
     font-weight: bold;
     text-align: center;
+    font-family: BuiltTitling, sans-serif;
+    letter-spacing: 1px;
+}
+
+#available-places-disclaimer {
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#modalities-specifics-block {
+    margin-top: 1rem;
+}
+
+#preregistration-button {
+    background-color: #e0457b;
+    padding: 1rem;
+    color: white;
 }

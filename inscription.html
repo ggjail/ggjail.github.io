@@ -65,61 +65,79 @@
                     <div class="column is-12">
                         <div class="columns">
                             <div class="column is-12">
-                                <div class="content-card">
-                                    <div class="subtitle">Profils attendus</div>
-                                    <div class="bordered-text">
-                                        <p>Voici les cinq profils que nous recherchons pour cette édition de la Global Game Jam® Abiding Bridge & ISEN Lille.</p>
-                                        <ul>
-                                            <li>Des <b>personnes issues de l’industrie du jeu vidéo</b>, qu’elles soient dans la production ou dans la fonction support des entreprises.</li>
-                                            <li>Des <b>personnes issues d’entreprises hors jeux vidéo</b>, intéressées à découvrir la façon dont ceux-ci sont faits.</li>
-                                            <li>Des <b>étudiants</b> en école d’ingénierie, de jeu vidéo, d’art ou d’informatique.</li>
-                                            <li>Des <b>makers</b>, c’est à dire des artisans ou des personnes plutôt bricoleuses, en menuiserie, électronique, etc. Passionnées par les défis techniques et intéressées à participer à l’élaboration d’installations interactives.</li>
-                                            <li>Des <b>curieux</b> iconoclastes : les personnes qui ne s’inscrivent dans aucune des catégories précédentes, mais qui souhaitent découvrir un nouveau domaine, apprendre, contribuer et partager leurs connaissances.</li>
-                                        </ul>
-                                        <p class="has-text-centered">Il y a 50 places disponibles !</p>
+                                <div class="subtitle">Profils attendus</div>
+                                <div class="content-card block-spacer">
+                                    <div class="subtitle block-spacer">Voici les cinq profils que nous recherchons pour cette édition de la Global Game Jam® Abiding Bridge & ISEN Lille.</div>
+                                    <div class="bordered-text block-spacer">
+                                        <div class="columns is-multiline">
+                                            <div class="column is-5-desktop v-align">
+                                                <ul>
+                                                    <li class="li-spacer">Des <b>personnes issues de l’industrie du jeu vidéo</b>, qu’elles soient dans la production ou dans la fonction support des entreprises.</li>
+                                                    <li class="li-spacer">Des <b>personnes issues d’entreprises hors jeux vidéo</b>, intéressées à découvrir la façon dont ceux-ci sont faits.</li>
+                                                </ul>
+                                            </div>
+                                            <div class="column is-5-desktop is-offset-2-desktop v-align">
+                                                <ul>
+                                                    <li class="li-spacer">Des <b>étudiants</b> en école d’ingénierie, de jeu vidéo, d’art ou d’informatique.</li>
+                                                    <li class="li-spacer">Des <b>makers</b>, c’est à dire des artisans ou des personnes plutôt bricoleuses, en menuiserie, électronique, etc. Passionnées par les défis techniques et intéressées à participer à l’élaboration d’installations interactives.</li>
+                                                </ul>
+                                            </div>
+                                            <div class="column is-12">
+                                                <ul>
+                                                    <li>Des <b>curieux</b> iconoclastes : les personnes qui ne s’inscrivent dans aucune des catégories précédentes, mais qui souhaitent découvrir un nouveau domaine, apprendre, contribuer et partager leurs connaissances.</li>
+                                                </ul>
+                                            </div>
+                                        </div>
                                     </div>
+                                    <p class="text-content" id="available-places-disclaimer">Il y a 50 places disponibles !</p>
                                 </div>
                             </div>
                         </div>
                         <div class="columns">
-                            <div class="column is-12">
-                                <div class="subtitle">Modalité d’inscription</div>
-                                <div class="text-content">
-                                    <p>L’inscription se déroule en deux étapes : une pré-inscription et une confirmation.</p>
-                                    <div class="subsubtitle">1 - Pré-inscription</div>
-                                    <p>Il y a tout d’abord une phase de pré-inscription (sans engagement, aucun paiement ne vous sera demandé à cette étape).</p>
-                                    <p>Cette phase nous permet de sélectionner les participant(e)s à la jam afin de s’assurer d’une diversité des profils. Nous vous demandons de remplir un questionnaire pour préciser votre profil et pourquoi vous souhaitez participer.</p>
-                                    <p>Le questionnaire de pré-inscription restera ouvert jusqu’à la Global Game Jam®.</p>
+                            <div class="column is-12" id="modalities-block">
+                                <div class="subtitle">Modalités d’inscription</div>
+                                <div class="text-content block-spacer">
+                                    <p class="has-text-centered">L’inscription se déroule en deux étapes : une pré-inscription et une confirmation.</p>
+                                    <div class="columns block-spacer" id="modalities-specifics-block">
+                                        <div class="column is-6">
+                                            <div class="subsubtitle">1. Pré-inscription</div>
+                                            <p>Il y a tout d’abord une phase de pré-inscription (sans engagement, aucun paiement ne vous sera demandé à cette étape).</p>
+                                            <p>Cette phase nous permet de sélectionner les participant(e)s à la jam afin de s’assurer d’une diversité des profils. Nous vous demandons de remplir un questionnaire pour préciser votre profil et pourquoi vous souhaitez participer.</p>
+                                            <p>Le questionnaire de pré-inscription restera ouvert jusqu’à la Global Game Jam®.</p>
+                                        </div>
+                                        <div class="column is-6">
+                                            <div class="subsubtitle">2. Confirmation</div>
+                                            <p>Suite à cette pré-inscription, si vous êtes sélectionné(e), vous pourrez choisir de confirmer votre inscription (ou de laisser votre place).</p>
+                                            <p>C’est seulement si vous confirmez votre inscription que les frais vous seront demandés.</p>
+                                        </div>
+                                    </div>
                                     <p id="preregistration-link">
                                         <a
-                                            class="pink-link"
+                                            id="preregistration-button"
                                             href="https://docs.google.com/forms/d/e/1FAIpQLSdv4YHRLybmEp_UeBAVZkh7I2ppJZoIbv21lYGN-mfMw5Myrg/viewform?usp=sf_link">
                                             Se préinscrire maintenant
                                         </a>
                                     </p>
-                                    <div class="subsubtitle">2 - Confirmation</div>
-                                    <p>Suite à cette pré-inscription, si vous êtes sélectionné(e), vous pourrez choisir de confirmer votre inscription (ou de laisser votre place).</p>
-                                    <p>C’est seulement si vous confirmez votre inscription que les frais vous seront demandés.</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="columns">
-                            <div class="column is-12">
+                        <div class="columns block-spacer">
+                            <div class="column is-10-desktop is-offset-1-desktop">
                                 <div class="subtitle">Processus de sélection</div>
                                 <div class="text-content">
-                                    <p>Concernant notre processus de sélection :</p>
-                                    <p>Le questionnaire de pré-inscription restera ouvert jusqu’à la Global Game Jam.</p>
+                                    <p class="block-spacer">Concernant notre processus de sélection :</p>
+                                    <p class="li-spacer">Le questionnaire de pré-inscription restera ouvert jusqu’à la Global Game Jam.</p>
                                     <ul>
-                                        <li>Le 3 janvier, nous allons procéder à un premier tri parmi les personnes ayant répondu au questionnaire. Notre objectif est de s’assurer une bonne répartition entre les 5 profils. Nous enverrons des messages à toutes les personnes ayant répondu au questionnaire, en leur disant si leur profil a été retenu, ou mis sur liste d’attente. Les personnes retenues auront jusqu’au 7 janvier pour confirmer leur envie de venir et payer les frais d’inscription.</li>
-                                        <li>Le 8 janvier, en fonction des confirmations d’inscriptions que nous aurons reçues, nous enverrons des nouveaux messages aux personnes sur liste d’attente, pour les informer si elles ont été retenues ou si elles sont toujours sur liste d’attente. Les personnes retenues auront jusqu’au 10 janvier pour confirmer leur envie de venir et payer les frais d’inscription.</li>
-                                        <li>Le 11 janvier, les inscriptions seront closes. Nous inciterons toutes les personnes encore sur liste d’attente à s’inscrire sur d’autres lieux organisant la Global Game Jam. La seule possibilité d’avoir encore une place pour celle d’Abiding Bridge & ISEN Lille sera en cas de désistement d’une personne déjà inscrite.</li>
+                                        <li class="li-spacer">Le 3 janvier, nous allons procéder à un premier tri parmi les personnes ayant répondu au questionnaire. Notre objectif est de s’assurer une bonne répartition entre les 5 profils. Nous enverrons des messages à toutes les personnes ayant répondu au questionnaire, en leur disant si leur profil a été retenu, ou mis sur liste d’attente. Les personnes retenues auront jusqu’au 7 janvier pour confirmer leur envie de venir et payer les frais d’inscription.</li>
+                                        <li class="li-spacer">Le 8 janvier, en fonction des confirmations d’inscriptions que nous aurons reçues, nous enverrons des nouveaux messages aux personnes sur liste d’attente, pour les informer si elles ont été retenues ou si elles sont toujours sur liste d’attente. Les personnes retenues auront jusqu’au 10 janvier pour confirmer leur envie de venir et payer les frais d’inscription.</li>
+                                        <li class="li-spacer">Le 11 janvier, les inscriptions seront closes. Nous inciterons toutes les personnes encore sur liste d’attente à s’inscrire sur d’autres lieux organisant la Global Game Jam. La seule possibilité d’avoir encore une place pour celle d’Abiding Bridge & ISEN Lille sera en cas de désistement d’une personne déjà inscrite.</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
-                        <div class="columns">
-                            <div class="column is-12">
-                                <div class="subtitle" id="registration-fee">Frais d'inscription</div>
+                        <div class="columns block-spacer">
+                            <div class="column is-10-desktop is-offset-1-desktop">
+                                <div class="subtitle block-spacer" id="registration-fee">Frais d'inscription</div>
                                 <div class="text-content">
                                     <p>Les frais d’inscription sont de <b>50€ tout compris</b> (petits déjeuners, déjeuners, dîners, snacks et boissons en libre services).</p>
                                     <p>Un certain nombre de places gratuites ont été prévues pour les personnes ayant peu de moyens.</p>

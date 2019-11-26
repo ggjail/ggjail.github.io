@@ -3,6 +3,11 @@
     src: url(../fonts/Oswald-VariableFont_wght.ttf)
 }
 
+@font-face {
+    font-family: BuiltTitling;
+    src: url(../fonts/built-titling-lt.ttf);
+}
+
 .container.is-fluid {
     padding: 0;
 }
@@ -73,19 +78,17 @@ li {
 
 /* Subtitle */
 .subtitle, .subsubtitle {
-    font-family: Oswald, sans-serif;
+    font-family: Roboto, sans-serif;
     color: #3A3939;
-    font-size: 18px;
+    font-size: 24px;
     line-height: 30px;
-    text-transform: uppercase;
     text-align: center;
 }
 
 .subsubtitle {
     margin-bottom: 7px;
     margin-top: 7px;
-    font-size: 17px;
-    font-style: italic;
+    text-align: left;
 }
 
 .text-content {
@@ -154,6 +157,14 @@ li {
     color: #e08ab0;
 }
 
+.li-spacer {
+    margin-bottom: 1.5rem;
+}
+
+.block-spacer {
+    margin-bottom: 3rem !important;
+}
+
 /* Media */
 @media (max-width: 1023px) {
     .container.is-fluid {
@@ -162,5 +173,8 @@ li {
     }
     .content-card {
         padding: 2rem 3rem 2rem 3rem;
+    }
+    .subtitle {
+        font-size: 18px;
     }
 }
