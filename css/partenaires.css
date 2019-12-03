@@ -3,10 +3,15 @@
 }
 
 .partner-image {
-    height: 106px;
+    height: auto;
+    width: auto;
+    max-height: 106px;
 }
 
 .partner-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     text-align: center;
 }
 
