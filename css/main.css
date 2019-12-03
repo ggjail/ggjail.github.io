@@ -8,6 +8,11 @@
     src: url(../fonts/built-titling-lt.ttf);
 }
 
+@font-face {
+    font-family: Fredoka;
+    src: url(../fonts/FredokaOne-Regular.ttf);
+}
+
 .container.is-fluid {
     padding: 0;
 }

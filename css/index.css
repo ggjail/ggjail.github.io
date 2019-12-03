@@ -1,8 +1,13 @@
 .home-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     font-family: Oswald, sans-serif;
     color: #3A3939;
-    font-size: 30px;
-    line-height: 40px;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
     text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -21,4 +26,41 @@
     text-align: center;
     font-size: 20px;
     font-weight: bold;
+}
+
+.gg-shadow {
+    font-family: Fredoka, sans-serif;
+    text-shadow: 5px -5px 0 #FFFFFF;
+    color: #151D32;
+}
+
+#global {
+    font-size: 55px;
+}
+
+#game {
+    font-size: 40px;
+}
+
+#bienveillante {
+    font-size: 37px;
+    line-height: 35px;
+    font-weight: bold;
+    color: #423350;
+}
+
+#home-hr {
+    width: 250px;
+    height: 5px;
+    margin-bottom: 10px;
+}
+
+.lower-header {
+    font-family: Fredoka, sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+#hour {
+    font-size: 10px;
 }
