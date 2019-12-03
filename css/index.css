@@ -64,3 +64,13 @@
 #hour {
     font-size: 10px;
 }
+
+#illustration-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#illu {
+    max-width:400px;
+}
